@@ -1,0 +1,3 @@
+/Users/karinanathalie/BacktestX/BacktestX/build/CMakeFiles/BacktestX.dir
+/Users/karinanathalie/BacktestX/BacktestX/build/CMakeFiles/edit_cache.dir
+/Users/karinanathalie/BacktestX/BacktestX/build/CMakeFiles/rebuild_cache.dir
